@@ -14,7 +14,7 @@
     "mwportkey": "",
     "project.type": "js",
     "project_version": "sprint21",
-    "startupformkey": "Form0eefc2fe7a7bc4b",
+    "startupformkey": "frmSplash",
     "vendornamekey": "KonyLabs",
     "winmobileguidkey": "",
     "defaulttheme": "defaultTheme",
@@ -22,8 +22,8 @@
     "currentgaversion": "6.5.0",
     "appmenu": {
         "context": {
-            "channel": "mobile",
-            "platform": "android"
+            "platform": "iphone",
+            "channel": "mobile"
         },
         "desktop": {
             "data": [
@@ -62,48 +62,25 @@
             ]
         },
         "focuSkin": null,
-        "focusSkin": null,
+        "focusSkin": "",
         "focuskin": null,
-        "focusskin": null,
+        "focusskin": "",
         "mobile": {
             "data": [
                 {
-                    "id": "appmenuitemid1",
-                    "title": "Item 1",
+                    "id": "asd",
+                    "title": "asd",
                     "icon": {
                         "default": "option1.png"
                     },
+                    "onClick": null,
                     "kuid": "bc191612764d4132a866f80e62a1b615"
-                },
-                {
-                    "id": "appmenuitemid2",
-                    "title": "Item 2",
-                    "icon": {
-                        "default": "option2.png"
-                    },
-                    "kuid": "56ed7387d42941c096565a92319e1d74"
-                },
-                {
-                    "id": "appmenuitemid3",
-                    "title": "Item 3",
-                    "icon": {
-                        "default": "option3.png"
-                    },
-                    "kuid": "ca29eb748b914975a6654e6ae369cc2f"
-                },
-                {
-                    "id": "appmenuitemid4",
-                    "title": "Item 4",
-                    "icon": {
-                        "default": "option4.png"
-                    },
-                    "kuid": "e3b29c4c66204d5db59eb836978dc446"
                 }
             ]
         },
         "osPlatform": "",
         "osVersion": "iOS7",
-        "skin": null,
+        "skin": "",
         "tablet": {
             "data": [
                 {
@@ -141,5 +118,37 @@
             ]
         },
         "wType": "Appmenu"
-    }
+    },
+    "wap_ip_fontsize": "12",
+    "wap_android240_fontsize": "10",
+    "wap_android320_fontsize": "12",
+    "wap_android360_fontsize": "13",
+    "wap_android400_fontsize": "14",
+    "wap_android440_fontsize": "15",
+    "wap_android480_fontsize": "16",
+    "wap_android640_fontsize": "19",
+    "wap_spaipad_fontsize": "17",
+    "wap_spaandroidtab_fontsize": "17",
+    "wap_spaandroidtabldpi_fontsize": "17",
+    "wap_spaandroidtabmdpi_fontsize": "14",
+    "wap_spaandroidtabhdpi_fontsize": "16",
+    "wap_spaandroidtabxhdpi_fontsize": "18",
+    "wap_winphone320_fontsize": "12",
+    "wap_winphone480_fontsize": "12",
+    "wap_spawindowstab_fontsize": "17",
+    "wap_bb240_fontsize": "12",
+    "wap_bb320_fontsize": "15",
+    "wap_bb360_fontsize": "13",
+    "wap_bb400_fontsize": "14",
+    "wap_bb440_fontsize": "15",
+    "wap_bb480_fontsize": "17",
+    "ipadlandscapemodekey": "portrait",
+    "supportedorientations": [
+        "portrait"
+    ],
+    "desktopwebbasefontsize": "16",
+    "desktopwebwidthoption": "percentage",
+    "desktopwebaligenmentoption": "Left",
+    "iphonewebshrtcutkey": "",
+    "applogokey": ""
 }
