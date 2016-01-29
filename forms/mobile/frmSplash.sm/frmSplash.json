@@ -24,7 +24,9 @@
         }
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "FlexContainer01a9d4ee0fe8549"
+    ],
     "configureExtendBottom": false,
     "configureExtendTop": false,
     "configureStatusBarStyle": false,
@@ -162,17 +164,12 @@
         "containerWeight": 0,
         "containerweight": 0,
         "enabled": false,
-        "id": "Form0eefc2fe7a7bc4b_titleBar",
+        "id": "frmSplash_titleBar",
         "ide_buttonClosureLeftSideView": "",
         "ide_buttonClosureRightSideView": "",
         "ide_titleClosureLeftSideView": "",
         "ide_titleClosureRightSideView": "",
         "info": null,
-        "iphone": {
-            "psp": {
-                "visible": false
-            }
-        },
         "isVisible": true,
         "isvisible": true,
         "leftButtonText": "Back",
