@@ -1,0 +1,17 @@
+{
+	"AS_Form_ac7feab769dc409dab2e31fcf8b76fd3": {
+		"id": "AS_Form_ac7feab769dc409dab2e31fcf8b76fd3",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION___90bee6c604b2436f87794d52da3de25b",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "splashLogo",
+				"display": "splashLogo",
+				"inputparams": [],
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

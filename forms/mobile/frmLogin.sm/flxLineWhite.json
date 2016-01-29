@@ -3,11 +3,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "220dp"
+        "value": "0.40%"
     },
     "_left_": {
         "type": "string",
-        "value": "58dp"
+        "value": "0%"
     },
     "_margin_": [
         0,
@@ -21,16 +21,18 @@
         0,
         0
     ],
-    "_skin_": "s67dfe6fc8ef4199af316ee3427f50a5",
+    "_skin_": "s546ed70780a4626aae8ef3a03fc4fae",
     "_top_": {
         "type": "string",
-        "value": "127dp"
+        "value": "81%"
     },
     "_width_": {
         "type": "string",
         "value": "100%"
     },
     "allboxes": [],
+    "autogrowMode": 0,
+    "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [],
     "clipBounds": true,
@@ -40,15 +42,15 @@
     "enableScrolling": true,
     "enabled": false,
     "enablescrolling": true,
-    "height": "220dp",
-    "id": "FlexContainer01a9d4ee0fe8549",
+    "height": "0.40%",
+    "id": "flxLineWhite",
     "info": null,
     "isVisible": true,
     "isvisible": true,
-    "kuid": "a89815f1f0184e08a693ed2d61e26834",
+    "kuid": "a8d881d61b4c473dbb1517eb94578a5f",
     "layoutType": 2,
     "layouttype": 2,
-    "left": "58dp",
+    "left": "0%",
     "margin": [
         0,
         0,
@@ -63,16 +65,16 @@
         0,
         0
     ],
-    "parent": "frmSplash",
+    "parent": "backgroundContainer",
     "percent": true,
-    "pf": "frmSplash",
+    "pf": "frmLogin",
     "render": true,
-    "skin": "s67dfe6fc8ef4199af316ee3427f50a5",
+    "skin": "s546ed70780a4626aae8ef3a03fc4fae",
     "snapGridSize": 10,
     "snapToGrid": true,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "top": "127dp",
+    "top": "81%",
     "wType": "FlexContainer",
     "widgetAlignment": 1,
     "widgetalignment": 1,
