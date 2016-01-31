@@ -13,7 +13,7 @@ function splashLogo() {
     ),
       {"delay": 0, "iterationCount": 1, "fillMode": kony.anim.FILL_MODE_FORWARDS, "duration": 1.1},
    	  {"animationEnd": function(){
-       //LoginForm.show();
+       frmLogin.show();
       }
       }
      );

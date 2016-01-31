@@ -1,13 +1,9 @@
 {
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_bottom_": {
-        "type": "string",
-        "value": "0%"
-    },
     "_height_": {
         "type": "string",
-        "value": "7%"
+        "value": "0.40%"
     },
     "_left_": {
         "type": "string",
@@ -25,10 +21,10 @@
         0,
         0
     ],
-    "_skin_": "s1ce685d35d44bdda5af99bcd1370f51",
+    "_skin_": "s0649fd623af48e2902c22743fb07e39",
     "_top_": {
         "type": "string",
-        "value": "34%"
+        "value": "31%"
     },
     "_width_": {
         "type": "string",
@@ -37,12 +33,8 @@
     "allboxes": [],
     "autogrowMode": 0,
     "autogrowmode": 0,
-    "bottom": "0%",
     "canUpdateUI": true,
-    "children": [
-        "btnSing",
-        "btnVisitor"
-    ],
+    "children": [],
     "clipBounds": true,
     "clipbounds": true,
     "containerWeight": 100,
@@ -50,12 +42,12 @@
     "enableScrolling": true,
     "enabled": false,
     "enablescrolling": true,
-    "height": "7%",
-    "id": "flxButtons",
+    "height": "0.40%",
+    "id": "CopyflxLineGrey0fbe702ba7b7845",
     "info": null,
     "isVisible": true,
     "isvisible": true,
-    "kuid": "37ec72a217054942bbac189bd651bf9e",
+    "kuid": "3af7be828e634c8ba7f9d66d31d89821",
     "layoutType": 2,
     "layouttype": 2,
     "left": "0%",
@@ -73,16 +65,16 @@
         0,
         0
     ],
-    "parent": "masterContainer",
+    "parent": "flxDataInfo",
     "percent": true,
     "pf": "frmLogin",
     "render": true,
-    "skin": "s1ce685d35d44bdda5af99bcd1370f51",
+    "skin": "s0649fd623af48e2902c22743fb07e39",
     "snapGridSize": 10,
     "snapToGrid": true,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "top": "34%",
+    "top": "31%",
     "wType": "FlexContainer",
     "widgetAlignment": 1,
     "widgetalignment": 1,

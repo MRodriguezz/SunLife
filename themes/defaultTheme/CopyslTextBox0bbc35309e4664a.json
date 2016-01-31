@@ -1,8 +1,8 @@
 {
   "android": {
-    "font_name": "AgendaBold"
+    "font_name": "Helvetica"
   },
-  "background_color": "8f138f00",
+  "background_color": "b821b800",
   "bg_type": "one",
   "border_color": "282828ff",
   "border_style": "plain",
@@ -13,7 +13,7 @@
   },
   "font_color": "000000ff",
   "font_name": "",
-  "font_size": 150,
+  "font_size": 100,
   "font_style": "normal",
   "font_weight": "normal",
   "ipad": {
@@ -26,7 +26,7 @@
   "kiosk": {
     "font_name": "GenericMonospace"
   },
-  "kuid": "s65bad360b7148dcbdb78beb3190ec57",
+  "kuid": "s75efa49a00c427a8a41fc1738e34aa9",
   "spaan": {
     "font_name": "Helvetica"
   },

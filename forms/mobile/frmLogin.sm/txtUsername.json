@@ -3,8 +3,8 @@
     "DNDConfig": null,
     "__parentReadjusting__": false,
     "_height_": {
-        "type": "string",
-        "value": "15%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_left_": {
         "type": "string",
@@ -22,9 +22,9 @@
         0,
         0
     ],
-    "_placeholder_": "",
+    "_placeholder_": "1234",
     "_skin_": "s65bad360b7148dcbdb78beb3190ec57",
-    "_text_": "1234",
+    "_text_": "",
     "_top_": {
         "type": "string",
         "value": "0%"
@@ -43,14 +43,14 @@
     "autofilter": false,
     "canUpdateUI": true,
     "centerX": "50%",
-    "centerY": "20%",
+    "centerY": "17%",
     "centerx": {
         "type": "string",
         "value": "50%"
     },
     "centery": {
         "type": "string",
-        "value": "20%"
+        "value": "17%"
     },
     "containerHeight": "",
     "containerHeightMode": 1,
@@ -61,13 +61,13 @@
     "contentAlignment": 5,
     "contentalignment": 5,
     "enabled": false,
-    "height": "15%",
+    "height": "40dp",
     "id": "txtUsername",
     "info": null,
     "isVisible": true,
     "isvisible": true,
     "keyboardtype": "A",
-    "kuid": "4e2ab9c5565a46cea6d901a5198c4fc8",
+    "kuid": "a43f76c48ecf47f8903d2579d852ad25",
     "left": "10%",
     "margin": [
         0,
@@ -83,14 +83,14 @@
         0,
         0
     ],
-    "parent": "flxLogin",
+    "parent": "flxTerms",
     "pf": "frmLogin",
-    "placeholder": "",
+    "placeholder": "1234",
     "render": true,
     "secureTextEntry": false,
     "securetextentry": false,
     "skin": "s65bad360b7148dcbdb78beb3190ec57",
-    "text": "1234",
+    "text": "",
     "textInputMode": "A",
     "textinputmode": "A",
     "toolTip": "",

@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "74.55%"
+        "value": "0.90%"
     },
     "_left_": {
         "type": "string",
@@ -21,10 +21,10 @@
         0,
         0
     ],
-    "_skin_": "sa863430d6f84cf9a64b92bdfe313c48",
+    "_skin_": "s0649fd623af48e2902c22743fb07e39",
     "_top_": {
         "type": "string",
-        "value": "0%"
+        "value": "44dp"
     },
     "_width_": {
         "type": "string",
@@ -34,11 +34,7 @@
     "autogrowMode": 0,
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [
-        "txtUsername",
-        "flxLineGrey",
-        "TextField03a6ce576ae2542"
-    ],
+    "children": [],
     "clipBounds": true,
     "clipbounds": true,
     "containerWeight": 100,
@@ -46,12 +42,12 @@
     "enableScrolling": true,
     "enabled": false,
     "enablescrolling": true,
-    "height": "74.55%",
-    "id": "flxLogin",
+    "height": "0.90%",
+    "id": "CopyflxLineGrey0fb04337549074a",
     "info": null,
     "isVisible": true,
     "isvisible": true,
-    "kuid": "b92baa7ab8564ac191679244a0fee4e3",
+    "kuid": "97318774ff0c4c439e95a22109d743fb",
     "layoutType": 2,
     "layouttype": 2,
     "left": "0%",
@@ -69,16 +65,16 @@
         0,
         0
     ],
-    "parent": "flxData",
+    "parent": "flxFAQs",
     "percent": true,
     "pf": "frmLogin",
     "render": true,
-    "skin": "sa863430d6f84cf9a64b92bdfe313c48",
+    "skin": "s0649fd623af48e2902c22743fb07e39",
     "snapGridSize": 10,
     "snapToGrid": true,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "top": "0%",
+    "top": "44dp",
     "wType": "FlexContainer",
     "widgetAlignment": 1,
     "widgetalignment": 1,

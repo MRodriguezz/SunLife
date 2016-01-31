@@ -1,0 +1,108 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizSlider",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "9%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "66%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_max_": 100,
+    "_min_": 0,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_step_": 1,
+    "_thickness_": 15,
+    "_top_": {
+        "type": "string",
+        "value": "58%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "android": {
+        "thumbImage": "slider_android.png"
+    },
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "orientation": "horizontal",
+            "viewType": "default"
+        }
+    },
+    "enabled": false,
+    "height": "9%",
+    "id": "SliderRemember",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "enableThumbTintColor": true,
+            "thumbTintColor": "ffffff00"
+        },
+        "thumbImage": "slider_ios7.png"
+    },
+    "iphone": {
+        "psp": {
+            "enableThumbTintColor": true,
+            "thumbTintColor": "ffffff00"
+        },
+        "thumbImage": "slider_ios7.png"
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "b229daa43e0a4c6087f758d2ab8237cf",
+    "left": "66%",
+    "leftSkin": "s0b2e59b6db340f69344d3d7eba62cbe",
+    "leftskin": "s0b2e59b6db340f69344d3d7eba62cbe",
+    "margin": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "max": 100,
+    "min": 0,
+    "name": "kony.ui.Slider",
+    "osPlatform": "iphone",
+    "osVersion": "iOS7",
+    "padding": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "flxTerms",
+    "pf": "frmLogin",
+    "render": true,
+    "rightSkin": "s5db0d1f92754c22b6ce2f9335aaa9e6",
+    "rightskin": "s5db0d1f92754c22b6ce2f9335aaa9e6",
+    "selectedValue": 40,
+    "selectedvalue": 40,
+    "step": 1,
+    "thickness": 15,
+    "thumbImage": "slider.png",
+    "thumbimage": "slider.png",
+    "top": "58%",
+    "wType": "Slider",
+    "widgetAlignment": 5,
+    "widgetalignment": 5,
+    "width": "15%",
+    "zIndex": 1,
+    "zindex": 1
+}

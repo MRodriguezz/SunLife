@@ -1,17 +1,13 @@
 {
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_bottom_": {
-        "type": "string",
-        "value": "0%"
-    },
     "_height_": {
         "type": "string",
-        "value": "7%"
+        "value": "0.90%"
     },
     "_left_": {
         "type": "string",
-        "value": "0%"
+        "value": "15%"
     },
     "_margin_": [
         0,
@@ -25,24 +21,20 @@
         0,
         0
     ],
-    "_skin_": "s1ce685d35d44bdda5af99bcd1370f51",
+    "_skin_": "s0649fd623af48e2902c22743fb07e39",
     "_top_": {
         "type": "string",
-        "value": "34%"
+        "value": "47%"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "69.92%"
     },
     "allboxes": [],
     "autogrowMode": 0,
     "autogrowmode": 0,
-    "bottom": "0%",
     "canUpdateUI": true,
-    "children": [
-        "btnSing",
-        "btnVisitor"
-    ],
+    "children": [],
     "clipBounds": true,
     "clipbounds": true,
     "containerWeight": 100,
@@ -50,15 +42,15 @@
     "enableScrolling": true,
     "enabled": false,
     "enablescrolling": true,
-    "height": "7%",
-    "id": "flxButtons",
+    "height": "0.90%",
+    "id": "CopyflxLineGrey09462c78538e542",
     "info": null,
     "isVisible": true,
     "isvisible": true,
-    "kuid": "37ec72a217054942bbac189bd651bf9e",
+    "kuid": "c3449c89b68748108c930f3d684ce0dc",
     "layoutType": 2,
     "layouttype": 2,
-    "left": "0%",
+    "left": "15%",
     "margin": [
         0,
         0,
@@ -73,20 +65,20 @@
         0,
         0
     ],
-    "parent": "masterContainer",
+    "parent": "flxTerms",
     "percent": true,
     "pf": "frmLogin",
     "render": true,
-    "skin": "s1ce685d35d44bdda5af99bcd1370f51",
+    "skin": "s0649fd623af48e2902c22743fb07e39",
     "snapGridSize": 10,
     "snapToGrid": true,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "top": "34%",
+    "top": "47%",
     "wType": "FlexContainer",
     "widgetAlignment": 1,
     "widgetalignment": 1,
-    "width": "100%",
+    "width": "69.92%",
     "zIndex": 1,
     "zindex": 1
 }

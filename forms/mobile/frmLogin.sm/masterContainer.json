@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "100.36%"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
@@ -37,7 +37,8 @@
     "children": [
         "backgroundContainer",
         "flxButtons",
-        "flxData"
+        "flxData",
+        "flxDataInfo"
     ],
     "clipBounds": true,
     "clipbounds": true,
@@ -46,7 +47,7 @@
     "enableScrolling": true,
     "enabled": false,
     "enablescrolling": true,
-    "height": "100.36%",
+    "height": "100%",
     "id": "masterContainer",
     "info": null,
     "isVisible": true,

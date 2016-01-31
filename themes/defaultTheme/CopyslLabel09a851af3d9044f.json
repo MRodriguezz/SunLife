@@ -1,20 +1,20 @@
 {
   "android": {
-    "font_name": "AgendaBold"
+    "font_name": "Helvetica"
   },
-  "background_color": "8f138f00",
+  "background_color": "00000000",
   "bg_type": "one",
-  "border_color": "282828ff",
+  "border_color": "424242ff",
   "border_style": "plain",
   "border_type": 0,
   "border_width": 0,
   "desktopweb": {
     "font_name": "Helvetica"
   },
-  "font_color": "000000ff",
+  "font_color": "043944ff",
   "font_name": "",
-  "font_size": 150,
-  "font_style": "normal",
+  "font_size": 100,
+  "font_style": "underline",
   "font_weight": "normal",
   "ipad": {
     "font_name": "Helvetica"
@@ -26,7 +26,7 @@
   "kiosk": {
     "font_name": "GenericMonospace"
   },
-  "kuid": "s65bad360b7148dcbdb78beb3190ec57",
+  "kuid": "s60d3ad321dd4bc0a5d7fd9bdc007517",
   "spaan": {
     "font_name": "Helvetica"
   },
@@ -51,7 +51,7 @@
   "tabrcandroid": {
     "font_name": "Helvetica"
   },
-  "wType": "TextField",
+  "wType": "Label",
   "windows8": {
     "font_name": "GenericMonospace"
   },

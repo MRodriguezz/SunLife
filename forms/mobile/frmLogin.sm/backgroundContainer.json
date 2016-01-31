@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "50%"
+        "value": "41.82%"
     },
     "_left_": {
         "type": "string",
@@ -45,7 +45,7 @@
     "enableScrolling": true,
     "enabled": false,
     "enablescrolling": true,
-    "height": "50%",
+    "height": "41.82%",
     "id": "backgroundContainer",
     "info": null,
     "isVisible": true,

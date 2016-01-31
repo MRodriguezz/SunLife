@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "0.40%"
+        "value": "0.90%"
     },
     "_left_": {
         "type": "string",
@@ -24,7 +24,7 @@
     "_skin_": "s0649fd623af48e2902c22743fb07e39",
     "_top_": {
         "type": "string",
-        "value": "57dp"
+        "value": "76dp"
     },
     "_width_": {
         "type": "string",
@@ -42,12 +42,12 @@
     "enableScrolling": true,
     "enabled": false,
     "enablescrolling": true,
-    "height": "0.40%",
+    "height": "0.90%",
     "id": "flxLineGrey",
     "info": null,
     "isVisible": true,
     "isvisible": true,
-    "kuid": "d97381569ea14c54bda27bdfc2337463",
+    "kuid": "5d0814359afd490ea930a75694fb4f29",
     "layoutType": 2,
     "layouttype": 2,
     "left": "15%",
@@ -65,7 +65,7 @@
         0,
         0
     ],
-    "parent": "flxLogin",
+    "parent": "flxTerms",
     "percent": true,
     "pf": "frmLogin",
     "render": true,
@@ -74,7 +74,7 @@
     "snapToGrid": true,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "top": "57dp",
+    "top": "76dp",
     "wType": "FlexContainer",
     "widgetAlignment": 1,
     "widgetalignment": 1,

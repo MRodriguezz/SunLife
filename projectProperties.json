@@ -150,5 +150,14 @@
     "desktopwebwidthoption": "percentage",
     "desktopwebaligenmentoption": "Left",
     "iphonewebshrtcutkey": "",
-    "applogokey": ""
+    "applogokey": "",
+    "accountCloudGuid": "0d4b1655-72ef-43ef-804f-25ea96a5f6ea",
+    "projectCloudGuid": "772a66a1-990d-444c-b0a1-9a4fcf7d5311",
+    "prototype": {
+        "createdOn": "2016-01-31T05:26:22.632Z",
+        "createdById": "31c8fb37-8971-4616-9b17-bfa341d7f6f7",
+        "createdBy": "Ludwin Garcia",
+        "shareGuid": "CIT1K",
+        "resourceId": "b678b0a3-9b57-48c2-9154-f972a056050a"
+    }
 }

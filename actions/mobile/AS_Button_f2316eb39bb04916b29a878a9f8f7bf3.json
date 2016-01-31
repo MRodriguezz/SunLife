@@ -1,0 +1,21 @@
+{
+	"AS_Button_f2316eb39bb04916b29a878a9f8f7bf3": {
+		"id": "AS_Button_f2316eb39bb04916b29a878a9f8f7bf3",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__e7ce994de6254e75aa00d008ee9daba5",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "slideLogin(\"flxDataInfo\");",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}
