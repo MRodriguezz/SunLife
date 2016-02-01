@@ -3,11 +3,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "0.90%"
+        "value": "10%"
     },
     "_left_": {
         "type": "string",
-        "value": "15%"
+        "value": "30%"
     },
     "_margin_": [
         0,
@@ -24,11 +24,11 @@
     "_skin_": "s0649fd623af48e2902c22743fb07e39",
     "_top_": {
         "type": "string",
-        "value": "76dp"
+        "value": "44dp"
     },
     "_width_": {
         "type": "string",
-        "value": "69.92%"
+        "value": "1%"
     },
     "allboxes": [],
     "autogrowMode": 0,
@@ -42,15 +42,15 @@
     "enableScrolling": true,
     "enabled": false,
     "enablescrolling": true,
-    "height": "0.90%",
+    "height": "10%",
     "id": "flxLineGrey",
     "info": null,
     "isVisible": true,
     "isvisible": true,
-    "kuid": "5d0814359afd490ea930a75694fb4f29",
+    "kuid": "49428bf44ae647a8b37d91612e71728e",
     "layoutType": 2,
     "layouttype": 2,
-    "left": "15%",
+    "left": "30%",
     "margin": [
         0,
         0,
@@ -65,7 +65,7 @@
         0,
         0
     ],
-    "parent": "flxTerms",
+    "parent": "flxData",
     "percent": true,
     "pf": "frmLogin",
     "render": true,
@@ -74,11 +74,11 @@
     "snapToGrid": true,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "top": "76dp",
+    "top": "44dp",
     "wType": "FlexContainer",
     "widgetAlignment": 1,
     "widgetalignment": 1,
-    "width": "69.92%",
+    "width": "1%",
     "zIndex": 1,
     "zindex": 1
 }

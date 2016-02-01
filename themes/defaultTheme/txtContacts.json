@@ -2,7 +2,7 @@
   "android": {
     "font_name": "Helvetica"
   },
-  "background_color": "00000000",
+  "background_color": "0056d600",
   "bg_type": "one",
   "border_color": "424242ff",
   "border_style": "plain",
@@ -11,7 +11,7 @@
   "desktopweb": {
     "font_name": "Helvetica"
   },
-  "font_color": "b2c2c4ff",
+  "font_color": "0056d6ff",
   "font_name": "",
   "font_size": 100,
   "font_style": "normal",
@@ -20,13 +20,13 @@
     "font_name": "Helvetica"
   },
   "iphone": {
-    "font_name": "AgendaMedium"
+    "font_name": "AgendaBold"
   },
   "isDefaultSkin": false,
   "kiosk": {
     "font_name": "GenericMonospace"
   },
-  "kuid": "se24a6023cd24e049ebe64396288690f",
+  "kuid": "s4e0c77a1856441abb4761bfe3cb84d1",
   "spaan": {
     "font_name": "Helvetica"
   },

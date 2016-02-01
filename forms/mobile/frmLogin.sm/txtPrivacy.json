@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "21%"
+        "value": "26%"
     },
     "_margin_": [
         1,
@@ -22,28 +22,28 @@
         0,
         0
     ],
-    "_skin_": "se24a6023cd24e049ebe64396288690f",
-    "_text_": "Contacts Us",
+    "_skin_": "se9871759f674ccc9050245dab9b6a87",
+    "_text_": "Privacy",
     "_top_": {
         "type": "string",
-        "value": "37%"
+        "value": "45%"
     },
     "_width_": {
         "type": "string",
-        "value": "40%"
+        "value": "23.44%"
     },
     "_wrapping_": 2,
     "canUpdateUI": true,
     "containerWeight": 100,
     "containerweight": 100,
-    "contentAlignment": 4,
-    "contentalignment": 4,
+    "contentAlignment": 5,
+    "contentalignment": 5,
     "enabled": false,
     "height": {
         "type": "ref",
         "value": "preferred"
     },
-    "id": "txtContacts",
+    "id": "txtPrivacy",
     "info": null,
     "ipad": {
         "psp": {
@@ -57,8 +57,8 @@
     },
     "isVisible": true,
     "isvisible": true,
-    "kuid": "af456f880897480d9f9c015d8c931a65",
-    "left": "21%",
+    "kuid": "36e12d225bc84229aa66f686a132646d",
+    "left": "26%",
     "margin": [
         1,
         1,
@@ -72,17 +72,17 @@
         0,
         0
     ],
-    "parent": "flxContacts",
+    "parent": "flxData",
     "pf": "frmLogin",
     "render": true,
-    "skin": "se24a6023cd24e049ebe64396288690f",
-    "text": "Contacts Us",
+    "skin": "se9871759f674ccc9050245dab9b6a87",
+    "text": "Privacy",
     "toolTip": "",
     "tooltip": "",
-    "top": "37%",
+    "top": "45%",
     "wType": "Label",
     "widgetAlignment": 5,
-    "width": "40%",
+    "width": "23.44%",
     "wrapping": 2,
     "zIndex": 1,
     "zindex": 1

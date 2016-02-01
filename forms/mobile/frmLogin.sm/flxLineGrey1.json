@@ -3,11 +3,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "0.40%"
+        "value": "10%"
     },
     "_left_": {
         "type": "string",
-        "value": "0%"
+        "value": "72%"
     },
     "_margin_": [
         0,
@@ -21,14 +21,14 @@
         0,
         0
     ],
-    "_skin_": "s546ed70780a4626aae8ef3a03fc4fae",
+    "_skin_": "s0649fd623af48e2902c22743fb07e39",
     "_top_": {
         "type": "string",
-        "value": "81%"
+        "value": "45dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "1%"
     },
     "allboxes": [],
     "autogrowMode": 0,
@@ -42,15 +42,15 @@
     "enableScrolling": true,
     "enabled": false,
     "enablescrolling": true,
-    "height": "0.40%",
-    "id": "flxLineWhite",
+    "height": "10%",
+    "id": "flxLineGrey1",
     "info": null,
     "isVisible": true,
     "isvisible": true,
-    "kuid": "a8d881d61b4c473dbb1517eb94578a5f",
+    "kuid": "a17fd9a1811445dea793a56b5e727926",
     "layoutType": 2,
     "layouttype": 2,
-    "left": "0%",
+    "left": "72%",
     "margin": [
         0,
         0,
@@ -65,18 +65,20 @@
         0,
         0
     ],
-    "parent": "backgroundContainer",
+    "parent": "flxData",
     "percent": true,
     "pf": "frmLogin",
     "render": true,
-    "skin": "s546ed70780a4626aae8ef3a03fc4fae",
+    "skin": "s0649fd623af48e2902c22743fb07e39",
     "snapGridSize": 10,
     "snapToGrid": true,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "top": "81%",
+    "top": "45dp",
     "wType": "FlexContainer",
     "widgetAlignment": 1,
     "widgetalignment": 1,
-    "width": "100%"
+    "width": "1%",
+    "zIndex": 1,
+    "zindex": 1
 }

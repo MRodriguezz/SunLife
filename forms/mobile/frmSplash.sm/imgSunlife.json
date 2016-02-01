@@ -27,7 +27,7 @@
     "_src_": "sunlife.png",
     "_top_": {
         "type": "string",
-        "value": "84%"
+        "value": "41%"
     },
     "_width_": {
         "type": "string",
@@ -76,7 +76,7 @@
     "skin": "sd176bd0802a41b5b6ab2b748414a417",
     "src": "sunlife.png",
     "srcType": 1,
-    "top": "84%",
+    "top": "41%",
     "wType": "Image",
     "widgetAlignment": 5,
     "widgetalignment": 5,

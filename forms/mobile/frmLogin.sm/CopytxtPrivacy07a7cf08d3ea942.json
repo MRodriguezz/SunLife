@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "21%"
+        "value": "54%"
     },
     "_margin_": [
         1,
@@ -22,28 +22,28 @@
         0,
         0
     ],
-    "_skin_": "se24a6023cd24e049ebe64396288690f",
-    "_text_": "Tools and Calculator",
+    "_skin_": "se9871759f674ccc9050245dab9b6a87",
+    "_text_": "Info",
     "_top_": {
         "type": "string",
-        "value": "37%"
+        "value": "45%"
     },
     "_width_": {
         "type": "string",
-        "value": "55.03%"
+        "value": "23.44%"
     },
     "_wrapping_": 2,
     "canUpdateUI": true,
     "containerWeight": 100,
     "containerweight": 100,
-    "contentAlignment": 4,
-    "contentalignment": 4,
+    "contentAlignment": 5,
+    "contentalignment": 5,
     "enabled": false,
     "height": {
         "type": "ref",
         "value": "preferred"
     },
-    "id": "txtTools",
+    "id": "CopytxtPrivacy07a7cf08d3ea942",
     "info": null,
     "ipad": {
         "psp": {
@@ -57,8 +57,8 @@
     },
     "isVisible": true,
     "isvisible": true,
-    "kuid": "14349d61a77d4993ad6e1228bdac072e",
-    "left": "21%",
+    "kuid": "971240760188474fb28aeb273c370f01",
+    "left": "54%",
     "margin": [
         1,
         1,
@@ -72,17 +72,17 @@
         0,
         0
     ],
-    "parent": "flxTools",
+    "parent": "flxData",
     "pf": "frmLogin",
     "render": true,
-    "skin": "se24a6023cd24e049ebe64396288690f",
-    "text": "Tools and Calculator",
+    "skin": "se9871759f674ccc9050245dab9b6a87",
+    "text": "Info",
     "toolTip": "",
     "tooltip": "",
-    "top": "37%",
+    "top": "45%",
     "wType": "Label",
     "widgetAlignment": 5,
-    "width": "55.03%",
+    "width": "23.44%",
     "wrapping": 2,
     "zIndex": 1,
     "zindex": 1

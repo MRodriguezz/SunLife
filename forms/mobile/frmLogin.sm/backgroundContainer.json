@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "41.82%"
+        "value": "66.61%"
     },
     "_left_": {
         "type": "string",
@@ -35,8 +35,7 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "bgImage",
-        "flxLineWhite"
+        "bgImage"
     ],
     "clipBounds": true,
     "clipbounds": true,
@@ -45,7 +44,7 @@
     "enableScrolling": true,
     "enabled": false,
     "enablescrolling": true,
-    "height": "41.82%",
+    "height": "66.61%",
     "id": "backgroundContainer",
     "info": null,
     "isVisible": true,
