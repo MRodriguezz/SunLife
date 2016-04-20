@@ -1,0 +1,21 @@
+{
+	"AS_Button_f23768e309b84eca934eff4979034081": {
+		"id": "AS_Button_f23768e309b84eca934eff4979034081",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__2c1239d2ae88470a9658cc66349c6d18",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "frmFallTop.destroy();",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

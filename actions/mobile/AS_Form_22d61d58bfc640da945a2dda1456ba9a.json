@@ -1,0 +1,15 @@
+{
+	"AS_Form_22d61d58bfc640da945a2dda1456ba9a": {
+		"id": "AS_Form_22d61d58bfc640da945a2dda1456ba9a",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__f771a999c0ca4369b7b8f3b0162731c9",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "//Aca mando a llamar la funcion que declare en el modulo LoginAnimation.js\nflyingLogo();",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1dd27fc394546859c3491796c62ab2f",
+    "_text_": "Remember me",
+    "_top_": {
+        "type": "string",
+        "value": "62%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "38.60%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "txtRemember",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "cfb19babb856448d8a83d41955c2e3ca",
+    "name": "kony.ui.Label",
+    "parent": "flxLogin",
+    "pf": "frmLoginParalax",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

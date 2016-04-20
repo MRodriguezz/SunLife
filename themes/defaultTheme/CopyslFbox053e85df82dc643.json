@@ -1,0 +1,11 @@
+{
+  "background_image": "password.png",
+  "bg_type": "image",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "isDefaultSkin": false,
+  "kuid": "sd848db82f7e40b890424e1fd7fd1af0",
+  "wType": "FlexContainer"
+}

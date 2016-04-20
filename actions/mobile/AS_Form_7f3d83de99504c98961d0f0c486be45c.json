@@ -1,0 +1,15 @@
+{
+	"AS_Form_7f3d83de99504c98961d0f0c486be45c": {
+		"id": "AS_Form_7f3d83de99504c98961d0f0c486be45c",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__e855b85a6ea7496184eb8ba8a0a75f3e",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "opactitylogin3();\nonstartinitialchase();\nchasebgresize();",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

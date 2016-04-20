@@ -1,0 +1,15 @@
+{
+	"AS_Form_19d4c3cfbd6c4d2ba845470246b0ae6b": {
+		"id": "AS_Form_19d4c3cfbd6c4d2ba845470246b0ae6b",
+		"type": "ACTION_SEQUENCE",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__5f5a7ccf155f43978d97a4391bf1137c",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "/*Aca se toma como parametro el form \"frmLoginFly\", el cual es el form principal \no padre y dentro del el se asignan las propiedades y valores los cuales son los que\nme van a servir para poder animar el splash inicial y el login.*/\nfrmLoginFly.imgLogo.top=\"165dp\";\nfrmLoginFly.imgLogo.left=\"40%\";\nfrmLoginFly.imgLogo.opacity=1;\nfrmLoginFly.flxIntro.opacity=0;\nfrmLoginFly.flxLogin.opacity=0;\nfrmLoginFly.flxButtom.opacity=0;\nfrmLoginFly.flxForgot.opacity=0;\nfrmLoginFly.flxFooter.opacity=0;\nfrmLoginFly.flxLoginMaster.opacity=1;\nfrmLoginFly.imgShadow.opacity= 0.6;\n\n",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

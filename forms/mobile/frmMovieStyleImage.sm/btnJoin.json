@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_skin_": "sa8ddb5b7aaf4b7f941deeb779ef4777",
+    "_text_": "Join Now!",
+    "_top_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s9a16f9c1b3f4d978344ca7b3691ff16",
+    "id": "btnJoin",
+    "info": null,
+    "isvisible": true,
+    "kuid": "4634f3764bd14e12878ab70a381c7471",
+    "name": "kony.ui.Button",
+    "parent": "flxLoginContainer",
+    "pf": "frmMovieStyleImage",
+    "wType": "Button",
+    "zindex": 1
+}

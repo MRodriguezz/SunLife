@@ -4,11 +4,9 @@
 		"type": "ACTION_SEQUENCE",
 		"actions": [
 			{
-				"id": "INVOKE_FUNCTION___90bee6c604b2436f87794d52da3de25b",
-				"type": "INVOKE_FUNCTION",
-				"sequenceKUID": "splashLogo",
-				"display": "splashLogo",
-				"inputparams": [],
+				"id": "ADD_SNIPPET__c81f2aedc5dd419bab1c714a8c3f448f",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "onstartinitialchase();",
 				"parentId": null,
 				"callbackType": null
 			}

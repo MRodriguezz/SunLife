@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "54%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se9871759f674ccc9050245dab9b6a87",
+    "_text_": "Info",
+    "_top_": {
+        "type": "string",
+        "value": "45%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "23.44%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "enabled": false,
+    "id": "CopytxtPrivacy07a7cf08d3ea942",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "971240760188474fb28aeb273c370f01",
+    "name": "kony.ui.Label",
+    "parent": "flxFooter",
+    "pf": "frmLoginParalax",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

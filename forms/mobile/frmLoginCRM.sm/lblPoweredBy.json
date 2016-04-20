@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "31%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s27a82e9a0554c63a7c4a809a87bd019",
+    "_text_": "Power by",
+    "_width_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "93%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "lblPoweredBy",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "45614bfebd5e4776a33b191175038a95",
+    "name": "kony.ui.Label",
+    "parent": "flxContainer",
+    "pf": "frmLoginCRM",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}
